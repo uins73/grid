@@ -65,7 +65,7 @@ img{
     padding: 3vh;
     width: 10vw;
 }
-fo:hover{
+.fo:hover{
     border:0;
     transform:none;
 }
