@@ -74,14 +74,15 @@ footer{
     width: 100%;
     text-align: center;
 }
-.foh{
-    padding: 2vh;
-    font-size: 3vw;
-}
+
 img:hover {
     border: white 1px solid;
     transform: scale(1.1);
   }
+.foh{
+    padding: 2vh;
+    font-size: 3vw;
+}
   @media (max-width: 768px) {
     .contenedor {
         grid-template: 1fr / 1fr 1fr;
