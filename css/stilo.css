@@ -65,6 +65,10 @@ img{
     padding: 3vh;
     width: 10vw;
 }
+fo:hover{
+    border:0;
+    transform:none;
+}
 footer{
     background-color: #0a101e;
     width: 100%;
